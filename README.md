@@ -1,9 +1,7 @@
-<center>
+### Hello :) 👋🏼
 
-# Hi :) 👋🏼
+I'm a Maldivian web/native dev currently in Addu City.
 
-[![Byytelope's GitHub stats](https://github-readme-stats.vercel.app/api?username=byytelope&show_icons=true&count_private=true&bg_color=ff000000)](https://github.com/byytelope)
+Feel free to use anything from my public repositories for your personal projects!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byytelope&layout=compact&bg_color=ff000000)](https://github.com/byytelope)
-
-</center>
+[Check out my website](https://shadhaan.vercel.app) to learn more about me.
