@@ -1,7 +1,5 @@
-### Hello :) 👋🏼
+### Hi 👋
 
-I'm a Maldivian web/native dev currently in Addu City.
+I'm a Software Engineering student from Addu City, Maldives currently studying at Taylor's University, Malaysia with a profound passion for web/native dev.
 
-Feel free to use anything from my public repositories for your personal projects!
-
-[Check out my website](https://shadhaan.vercel.app) to learn more about me.
+[Go here](https://shadhaan.vercel.app) to learn more about me.
